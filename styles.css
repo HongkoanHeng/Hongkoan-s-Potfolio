@@ -1,0 +1,291 @@
+body {
+  text-align: center;
+}
+a:link {
+  color: White;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.Blog {
+  font-family: Louis George Café, sans-serif;
+  color: #F4EADF;
+  text-shadow: 5px 5px Black;
+  font-size: 150px;
+  position: absolute;
+  top: 20px;
+  left: 140px;
+  z-index: 500;
+}
+/* Project */
+.Project {
+  font-family: Louis George Café, sans-serif;
+  color: #F4EADF;
+  text-shadow: 5px 5px Black;
+  font-size: 150px;
+  position: absolute;
+  top: 20px;
+  left: 140px;
+  z-index: 500;
+}
+.Front-End-title{
+  font-family: Raleway, sans-serif;
+  font-size: 50px;
+  position: relative;
+  color: white;
+  padding: 50px 50px;
+  padding-bottom: 30px;
+}
+.front-end-img{
+  width: 350px;
+  height: 215px;
+  position: relative;
+  top: 100px;
+}
+.Front-text-describe{
+    font-family: Raleway, sans-serif;
+    padding-top: 130px;
+    font-size: 20px;
+    color: white;
+  }
+
+/* UX */
+.UX-title{
+  font-family: Raleway, sans-serif;
+  font-size: 50px;
+  position: relative;
+  color: Black;
+  padding: 50px 50px;
+  padding-bottom: 30px;
+}
+.UX-img{
+  padding: 25px 25px 25px 25px;
+  width: 300px;
+  height: 190px;
+  position: relative;
+  top: 100px;
+}
+.UX-describe{
+  font-family: Raleway, sans-serif;
+  padding-top: 25px;
+  font-size: 20px;
+  color: Black;
+  position: relative;
+  top:120px;
+}
+
+/* UI */
+.UI-title{
+  font-family: Raleway, sans-serif;
+  font-size: 50px;
+  position: relative;
+  color: Black;
+  padding: 50px 50px;
+  padding-bottom: 30px;
+}
+.UI-describe{
+  font-family: Raleway, sans-serif;
+  padding-top: 25px;
+  font-size: 20px;
+  color: Black;
+  position: relative;
+  top:100px;
+}
+.UI-img{
+  padding: 25px 25px 25px 25px;
+  width: 300px;
+  height: 210px;
+  position: relative;
+  top: 90px;
+}
+
+.titleweb {
+  font-size: 500%;
+  text-align: center;
+  position: relative;
+  right: 5%;
+  top: 30%;
+}
+.titlewebb {
+  position: relative;
+  left: -5%;
+  top: 30%;
+  text-align: center;
+}
+.Header-img {
+
+  width: 100%;
+
+  position:relative;
+
+
+
+}
+
+.titleblog1 {
+  font-family: Raleway, sans-serif;
+  font-size: 50px;
+  position: relative;
+  color: white;
+  padding: 50px 50px;
+  padding-bottom: 30px;
+}
+
+.textstudent1 {
+  font-family: Raleway, sans-serif;
+  padding: 0;
+  font-size: 20px;
+  color: white;
+}
+
+.erp-img{
+  padding: 25px 25px 25px 25px;
+  width: 330px;
+  height: 300px;
+  position: relative;
+  top: 100px;
+}
+.erp-describe {
+  font-family: Raleway, sans-serif;
+  padding: 10%;
+  font-size: 20px;
+  color: white;
+}
+/* systen-dev */
+.systen-dev-img{
+  width: 250px;
+  height: 195px;
+  position: relative;
+  top: 70px;
+}
+.system-dev-describe{
+  font-family: Raleway, sans-serif;
+  padding: 0;
+  font-size: 20px;
+  color: Black;
+  position: relative;
+  top:100px;
+}
+.web-dev-img{
+  width: 240px;
+  height: 200px;
+  position: relative;
+  top: 100px;
+}
+.web-dev-describe{
+  font-family: Raleway, sans-serif;
+  padding: 0;
+  font-size: 20px;
+color: Black;
+position: relative;
+top:100px;}
+
+h3 {
+  font-size: 650px;
+  position: absolute;
+  left: 150px;
+  top: 20px;
+}
+
+.airplane {
+  padding-bottom: 25px;
+  width: 350px;
+  height: 280px;
+}
+
+/* Brackground html Link */
+#titlecontainer {
+
+}
+
+#Blog-container {
+  background-color: #49ABA1;
+  position: relative;
+  top: 20%;
+  width: 90%;
+  height: 100%;
+  z-index: 50;
+}
+#Project-container{
+  background-color: #49ABA1;
+  position: relative;
+  top: 20%;
+  width: 90%;
+  height: 100%;
+  z-index: 50;
+
+}
+#work {
+  text-align: center;
+  background-color: #515E63;
+  position: relative;
+  height: 700px;
+}
+
+#Title {
+  height: 700px;
+}
+
+#upper1 {
+  text-align: center;
+  background-color: #F1ECC3;
+  width: 800px;
+  position: relative;
+  height: 500px;
+  z-index: 500;
+
+}
+
+#upper2 {
+  text-align: center;
+  background-color: #C9D8B6;
+  width: 800px;
+  position: relative;
+  height: 500px;
+  z-index: 500;}
+
+
+#about {
+  text-align: center;
+  background-color: white;
+  position: relative;
+  height: 700px;
+}
+
+#lower1 {
+  text-align: center;
+  background-color: #C9D8B6;
+  width: 800px;
+  position: relative;
+  height: 500px;
+  z-index: 500;
+
+}
+
+#lower2 {
+  text-align: center;
+  background-color: #F1ECC3;
+  width: 800px;
+  position: relative;
+  height: 500px;
+  z-index: 500;
+
+}
+
+#footer {
+  text-align: center;
+}
