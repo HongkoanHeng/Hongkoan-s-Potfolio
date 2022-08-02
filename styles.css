@@ -289,3 +289,349 @@ h3 {
 #footer {
   text-align: center;
 }
+
+
+/* Second pages */
+.logo{
+  position: absolute;
+width: 55px;
+height: 61px;
+left: 24px;
+top: 23px;
+
+background: url(Brady logo.png);
+}
+.Project_title{
+position: absolute;
+width: 677px;
+height: 285px;
+left: 100px;
+top: 170px;
+
+font-family: 'Major Mono Display';
+font-style: normal;
+font-weight: 400;
+font-size: 270px;
+line-height: 270px;
+
+color: #000000;
+
+text-shadow: 0px 5px 4px rgba(0, 0, 0, 0.5);
+}
+.Project2_title{
+  position: absolute;
+  width: 802px;
+  height: 326px;
+  left: 591px;
+  top: 463px;
+
+  font-family: 'Major Mono Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 270px;
+  line-height: 270px;
+
+  color: #000000;
+
+  text-shadow: 0px 5px 4px rgba(0, 0, 0, 0.5);
+
+
+}
+
+.tailor_cover{
+  position: absolute;
+width: 720px;
+height: 900px;
+left: 0;
+top: 1000px;
+}
+.tailor-header{
+  position: absolute;
+  width: 454px;
+  height: 233px;
+  left: 845px;
+  top: 1187px;
+
+  font-family: 'Alleana Script';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 144px;
+  line-height: 144px;
+
+  color: #000000;
+
+
+}
+.tailor_1{
+position: absolute;
+width: 163px;
+height: 151px;
+left: 1210px;
+top: 1541px;
+
+font-family: 'Louis George Cafe';
+font-style: normal;
+font-weight: 700;
+font-size: 144px;
+line-height: 166px;
+
+color: #000000;
+}
+.tailor_dec{
+position: absolute;
+width: 509px;
+height: 140px;
+left: 800px;
+top: 1370px;
+
+font-family: 'Louis George Cafe';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+
+.ai_cover{
+  position: absolute;
+width: 727px;
+height: 646px;
+left: 750px;
+top: 1866px;
+
+}
+.ai_header{
+  position: absolute;
+width: 672px;
+height: 501px;
+left: 150px;
+top: 2100px;
+
+font-family: 'Alleana Script';
+font-style: normal;
+font-weight: 400;
+font-size: 144px;
+line-height: 144px;
+
+color: #000000;
+}
+.ai_dec{
+  position: absolute;
+  width: 428px;
+  height: 140px;
+  left: 170px;
+  top: 2300px;
+
+  font-family: 'Louis George Cafe';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+}
+  .ai_2{
+    position: absolute;
+width: 364px;
+height: 308px;
+left: 677px;
+top: 2354px;
+
+font-family: 'Louis George Cafe';
+font-style: normal;
+font-weight: 700;
+font-size: 144px;
+line-height: 166px;
+
+color: #000000;
+
+  }
+
+  .stu_cover{
+    position: absolute;
+width: 720px;
+height: 900px;
+left: 0px;
+top: 2700px;
+
+
+  }
+  .stu_header{
+    position: absolute;
+width: 465px;
+height: 501px;
+left: 869px;
+top: 3003px;
+
+font-family: 'Alleana Script';
+font-style: normal;
+font-weight: 400;
+font-size: 144px;
+line-height: 144px;
+
+color: #000000;
+
+
+
+  }
+  .stu_dec{
+    position: absolute;
+width: 438px;
+height: 196px;
+left: 962px;
+top: 3204px;
+
+font-family: 'Louis George Cafe';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+  }
+    .stu_3{
+      position: absolute;
+width: 173px;
+height: 165px;
+left: 1286px;
+top: 2773px;
+
+font-family: 'Louis George Cafe';
+font-style: normal;
+font-weight: 400;
+font-size: 144px;
+line-height: 166px;
+
+color: #000000;
+
+    }
+
+    .out_cover{
+      position: absolute;
+      width: 535px;
+      height: 520px;
+      left: 808px;
+      top: 3760px;
+    }
+    .out_header{
+      position: absolute;
+      width: 980px;
+      height: 310px;
+      left: 108px;
+      top: 3733px;
+
+      font-family: 'Alleana Script';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 144px;
+      line-height: 144px;
+      display: flex;
+      align-items: center;
+
+      color: #000000;
+    }
+    .out_dec{
+      position: absolute;
+      width: 428px;
+      height: 140px;
+      left: 101px;
+      top: 4030px;
+
+      font-family: 'Louis George Cafe';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 24px;
+      line-height: 28px;
+
+      color: #000000;
+
+    }
+    .out_4{
+      position: absolute;
+width: 144px;
+height: 179px;
+left: 526px;
+top: 4265px;
+
+font-family: 'Louis George Cafe';
+font-style: normal;
+font-weight: 700;
+font-size: 144px;
+line-height: 166px;
+
+color: #000000;
+
+    }
+.outrec{
+    position: absolute;
+width: 720px;
+height: 900px;
+left: 0px;
+top: 3600px;
+}
+
+
+.pho_cover{
+  position: absolute;
+width: 535px;
+height: 520px;
+left: 93px;
+top: 4715px;
+
+}
+
+.pho_header{
+  position: absolute;
+width: 595px;
+height: 501px;
+left: 820px;
+top: 4684px;
+
+font-family: 'Alleana Script';
+font-style: normal;
+font-weight: 400;
+font-size: 144px;
+line-height: 144px;
+
+color: #000000;
+
+
+}
+.pho_dec{
+  position: absolute;
+width: 428px;
+height: 196px;
+left: 935px;
+top: 4885px;
+
+font-family: 'Louis George Cafe';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+.pho_5{
+  position: absolute;
+width: 144px;
+height: 166px;
+left: 1228px;
+top: 5161px;
+
+font-family: 'Louis George Cafe';
+font-style: normal;
+font-weight: 700;
+font-size: 144px;
+line-height: 166px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}
