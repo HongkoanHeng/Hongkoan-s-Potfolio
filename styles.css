@@ -656,8 +656,9 @@ background: #FFFFFF;
 }
 .aiportfo{
 position: relative;
+top: 50px;
 width: 1440px;
-height: 6186px;
-
+height: 7409px;
+left: 100px;
 background: #CBD8E9;
 }
